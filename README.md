@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao perfil de Nicole Zanotto 😁
 
-## Bem-vindo(a) ao perfil de Nicole Zanotto 😁
-
 <div>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolevzntt&show_icons=true&theme=tokyonight)](https://github.com/nicolevzntt/github-readme-stats)
